@@ -1,9 +1,9 @@
-#DIGITAL IMAGE PROCESSING
+DIGITAL IMAGE PROCESSING
 
 
 This repsitory contains 5 python programs of digital image processing.
 
-#PREREQUISITS
+PREREQUISITS
 1.Python
 2.CV2(OPENCV-PYTHON)
 3.IDLE/Jupyter/Spyder/Pycharm........
